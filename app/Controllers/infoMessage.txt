@@ -1,0 +1,30 @@
+Array
+(
+    [update_id] => 448901351
+    [message] => Array
+        (
+            [message_id] => 5413
+            [from] => Array
+                (
+                    [id] => 6681282946
+                    [is_bot] => 
+                    [first_name] => Ботиржон
+                    [last_name] => Махамадрахимов
+                    [username] => botirmaxa
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 6681282946
+                    [first_name] => Ботиржон
+                    [last_name] => Махамадрахимов
+                    [username] => botirmaxa
+                    [type] => private
+                )
+
+            [date] => 1773020376
+            [text] => Next ➡️
+        )
+
+)
