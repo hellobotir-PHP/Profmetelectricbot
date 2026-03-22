@@ -10,5 +10,6 @@ use Controllers\BotController;
 
 $controller = new BotController($pdo);
 $controller->handle();
+echo "Git hello";
 #hello git
 #test 2ll
